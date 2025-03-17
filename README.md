@@ -10,7 +10,7 @@ Apart from coding, I'm also into **designing and digital arts**! I create visual
 🎥 I also have video editing skills using **Adobe Premiere Pro** and **CapCut**!
 
 ### 💼 Open to Work
-I'm available for **Work From Anywhere (WFA)** opportunities. If you're looking for a developer, designer, or content creator, feel free to connect with me!
+I'm available for **Work From Anywhere (WFA)** opportunities. If you're looking for a developer or designer, feel free to connect with me!
 
 ### 🔗 Connect with Me
 - 💼 [GitHub](https://github.com/Tiarawr) 
