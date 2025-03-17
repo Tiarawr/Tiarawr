@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-![Gif Description](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F3eW92OXBuam8wdzBraW1jNzBvdHY0MWd6eDhmZjViZGJzZ3lnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssq8oGi0pPO5rMLrEV/giphy.gif)
+![Gif Description](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2cxbnVydTRsdDRzOWozYm12azA0ZnNodWwxY3c5ZjB1YmpiaWYzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KZfwrMjwnawh8s3HIC/giphy.gif)
 
 ### 🚀 About Me
 Hi! I'm a passionate **Web Developer & Digital Creator** based in **Semarang, Indonesia**. I love building modern and responsive websites using **JavaScript, PHP, HTML, CSS**, and various frameworks like **Laravel, Node.js, React, Vite, and TailwindCSS**.
