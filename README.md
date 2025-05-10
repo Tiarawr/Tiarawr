@@ -5,7 +5,7 @@
 ### 🚀 About Me
 Hi! I'm a passionate **Web Developer & Digital Creator** based in **Semarang, Indonesia**. I love building modern and responsive websites using **JavaScript, PHP, HTML, CSS**, and various frameworks like **Laravel, Node.js, React, Vite, and TailwindCSS**.
 
-Apart from coding, I'm also into **designing and digital arts**! I create visuals using **Figma, Adobe Illustrator, and Photoshop**. If you’re curious about my artworks, check out my Instagram: [@paramore3k](https://www.instagram.com/paramore3k/).
+Apart from coding, I'm also into **designing and digital arts**! I create visuals using **Figma, Adobe Illustrator, and Photoshop**
 
 🎥 I also have video editing skills using **Adobe Premiere Pro** and **CapCut**!
 
