@@ -240,3 +240,118 @@ const KawaiiTiarawr = {
 <div align="center" style="background: linear-gradient(135deg, #F8E8FF, #FFE4E6); padding: 30px; border-radius: 25px; border: 4px solid #DDA0DD; margin: 20px 0;">
 
 ### 💕 **Find Me in These Kawaii Places** 💕
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌸_numucodes.me-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://numucodes.me)
+[![GitHub](https://img.shields.io/badge/GitHub-💖_Tiarawr-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiarawr)
+[![Instagram](https://img.shields.io/badge/Instagram-🦄_paramore3k-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paramore3k/)
+
+### 🌈 **Kawaii Social Stats** 🌈
+
+<div style="margin: 20px 0;">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tiarawr&color=FF69B4&style=for-the-badge&label=Kawaii+Visitors)
+[![GitHub followers](https://img.shields.io/github/followers/Tiarawr?color=FF69B4&style=for-the-badge&logo=github&label=Kawaii+Followers)](https://github.com/Tiarawr)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖_Very_Demure-FF69B4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Tiarawr)
+
+</div>
+
+</div>
+
+---
+
+## 💡 Kawaii Fun Facts About Me 💡
+
+<div align="center">
+<img src="https://via.placeholder.com/650x200/FFF0F5/FF69B4?text=💡+Fun+Kawaii+Facts+💡%0A%0A🌸+Very+demure+very+mindful+lifestyle+🌸" alt="Fun Facts" width="550" style="border-radius: 20px; border: 3px solid #FFB6C1;">
+</div>
+
+<div style="background: linear-gradient(135deg, #FFE4E6, #F8E8FF); padding: 25px; border-radius: 20px; border: 3px solid #DDA0DD; margin: 20px 0;">
+
+<table style="border: none;">
+<tr>
+<td width="50%" style="padding: 15px;">
+
+### 🌙 **My Kawaii Coding Lifestyle**
+- 🦉 I'm a night owl who codes best after midnight (very demure hours!)
+- 🎵 Always coding with Paramore playing - my kawaii coding soundtrack! 🎸✨
+- ☕ Pink latte enthusiast - my kawaii code runs on caffeine and sparkles!
+- 🌸 I believe great code should be as beautiful as cherry blossoms
+
+</td>
+<td width="50%" style="padding: 15px;">
+
+### 🦄 **Current Kawaii Adventures**
+- 🌱 Exploring Web3 and blockchain with pink aesthetics
+- 🎨 Learning new kawaii design trends and animations
+- 💖 Building a very demure, very mindful coding community
+- 🌸 Creating tutorials with maximum cuteness factor!
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌸 Recent Kawaii Projects 🌸
+
+<div align="center">
+
+### 💖 **My Latest Very Demure Creations** 💖
+
+<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, #FFE4E6, #FFF0F5); padding: 20px; border-radius: 20px; border: 3px solid #FFB6C1; width: 30%; text-align: center;">
+<h4 style="color: #FF69B4;">🥪 SendMeSandwich</h4>
+<p style="color: #8B008B; font-size: 0.9em;">Kawaii sandwich ordering app with magical collaboration features!</p>
+<a href="https://www.sendproject.fun/" style="color: #FF69B4;">✨ View Project</a>
+</div>
+
+<div style="background: linear-gradient(135deg, #F8E8FF, #E6E6FA); padding: 20px; border-radius: 20px; border: 3px solid #DDA0DD; width: 30%; text-align: center;">
+<h4 style="color: #9370DB;">👟 CheckMyKicks</h4>
+<p style="color: #8B008B; font-size: 0.9em;">Very demure shoe verification service with sparkly payment system!</p>
+<a href="https://checkmykicks.my.id" style="color: #9370DB;">✨ View Project</a>
+</div>
+
+<div style="background: linear-gradient(135deg, #FFE4E6, #F8E8FF); padding: 20px; border-radius: 20px; border: 3px solid #FF69B4; width: 30%; text-align: center;">
+<h4 style="color: #FF1493;">🌸 Portfolio Site</h4>
+<p style="color: #8B008B; font-size: 0.9em;">My kawaii portfolio showcasing all my very mindful projects!</p>
+<a href="https://numucodes.me" style="color: #FF1493;">✨ View Project</a>
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #FFE4E6, #FFF0F5, #F8E8FF); padding: 40px; border-radius: 30px; border: 5px solid #FFB6C1; margin: 30px 0; box-shadow: 0 15px 30px rgba(255,182,193,0.4);">
+
+### 🌸✨ **"Turning kawaii ideas into digital reality, one very demure line of code at a time"** ✨🌸
+
+<div style="font-size: 1.5em; color: #FF69B4; margin: 20px 0;">
+💖 **Very demure, very mindful, very kawaii coding** 💖
+</div>
+
+<div style="font-size: 1.2em; color: #9370DB; margin: 15px 0;">
+⭐ **Like what you see? Give my kawaii repos a pink star!** ⭐
+</div>
+
+<div style="margin: 25px 0;">
+
+[![Kawaii Repo Stars](https://img.shields.io/badge/⭐_Star_My_Kawaii_Repos-FF69B4?style=for-the-badge&logoColor=white)](https://github.com/Tiarawr?tab=repositories)
+[![Follow Me](https://img.shields.io/badge/💖_Follow_My_Journey-9370DB?style=for-the-badge&logoColor=white)](https://github.com/Tiarawr)
+[![Sponsor](https://img.shields.io/badge/🌸_Support_Kawaii_Code-FF1493?style=for-the-badge&logoColor=white)](https://github.com/sponsors/Tiarawr)
+
+</div>
+
+<div style="font-size: 1.1em; color: #DA70D6; margin-top: 20px;">
+🦄 **Thank you for visiting my kawaii coding world!** 🦄
+</div>
+
+<div style="font-size: 0.9em; color: #8B008B; margin-top: 10px;">
+*Last updated with extra sparkles: June 18, 2025* ✨
+</div>
+
+</div>
